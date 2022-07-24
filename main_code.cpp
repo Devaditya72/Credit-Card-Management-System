@@ -419,7 +419,6 @@ string lower(string str){
 int main(){
     system("cls");
     cout<<"-------------------- Credit Card Management System --------------------"<<endl;
-    cout<<"-------------------- Data Structure CS251 2K20MC21 --------------------"<<endl<<endl;
 	Linkedlist LL;
 	int count_invalid = 0,count_valid =0;
     string command, line, argument1, argument2, fileName;
